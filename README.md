@@ -37,8 +37,8 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the application simply clone the repository and run the **GC_venture_funding_with_deep_learning.ipynb**
-**venture_funding_with_deep_learning.ipynb**
+[GC_venture_funding_with_deep_learning.ipynb](https://colab.research.google.com/github/odhissm/venture_funding/blob/main/funding_app/GC_venture_funding_with_deep_learning.ipynb) - to run the application from Google colab
+
 with the:
 
 ```jupyter
